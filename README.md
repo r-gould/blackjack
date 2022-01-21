@@ -9,6 +9,7 @@ Solutions implemented:
 All solutions converge to the optimal policy shown below,
 
 |    || A | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+|---||---|---|---|---|---|---|---|---|---|---|
 | 12 || H | H | H | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 | 13 || A | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 | 14 || A | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
